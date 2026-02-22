@@ -1,4 +1,29 @@
-📄 Privacy Policy – Karmacards – The Card Game
+Privacy Policy
+
+Karmacards – The Card Game
+Last updated: February 22, 2026
+
+Karmacards – The Card Game (“the App”) is developed and operated by Jonathan Fürst (“Developer”, “we”, “us”, or “our”).
+
+This Privacy Policy explains how information is handled when you use the App.
+
+1. Information We Collect
+
+We do not collect, store, or share any personal information directly from users.
+
+The App does not require account registration and does not request personal details such as name, email address, phone number, or location.
+
+2. In-App Purchases
+
+The App offers optional in-app purchases.
+
+All payments are processed securely through Apple’s App Store payment system.
+We do not collect, store, or have access to your payment information (such as credit card details).
+
+Apple may collect and process purchase-related data in accordance with its own Privacy Policy.
+You can review Apple’s Privacy Policy at:
+https://www.apple.com/legal/privacy/
+
 3. Data Storage
 
 The App may store gameplay progress locally on your device.
